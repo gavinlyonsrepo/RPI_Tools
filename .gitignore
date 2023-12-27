@@ -1,0 +1,4 @@
+src/blink_without_delay/
+src/i2cdetect/bin
+src/i2cdetect/obj
+stuff/
