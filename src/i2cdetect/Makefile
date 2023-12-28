@@ -16,7 +16,7 @@ OBJ=obj
 SRCS = $(wildcard $(SRC)/*.cpp)
 OBJS = $(patsubst $(SRC)/%.cpp,  $(OBJ)/%.o, $(SRCS))
 BIN=./bin
-TARGET=$(BIN)/test
+TARGET=$(BIN)/i2cDetectGL
 
 all: clean pre-build $(TARGET) 
 
