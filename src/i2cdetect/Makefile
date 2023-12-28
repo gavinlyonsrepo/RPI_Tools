@@ -1,4 +1,6 @@
 # Gavin Lyons 12-2023
+# Make file to build i2cDetectGL Program
+# URL:: https://github.com/gavinlyonsrepo/RPI_Tools/blob/main/src/i2cdetect/i2cdetect.md
 
 # ********************
 # Options
