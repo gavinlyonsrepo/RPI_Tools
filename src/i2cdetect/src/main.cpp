@@ -66,7 +66,7 @@ bool reservedI2CAddress(uint8_t I2CAddress)
 
 /*!
   @brief sets up I2C bus with bcm2835 library
-  @return Will return false if fails to init Bc,2835 library or start I2C
+  @return Will return false if fails to init Bcm2835 library or start I2C
 */
 bool Setup(void)
 {

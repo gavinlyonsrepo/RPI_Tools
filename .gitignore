@@ -1,4 +1,5 @@
-src/blink_without_delay/
+src/blinkWithoutDelay/bin
+src/blinkWithoutDelay/obj
 src/i2cdetect/bin
 src/i2cdetect/obj
 stuff/
