@@ -1,7 +1,5 @@
 src/blinkWithoutDelay/bin
 src/blinkWithoutDelay/obj
-src/i2cdetect/bin
-src/i2cdetect/obj
-src/bcm2835Version/bin
-src/bcm2835Version/obj
+src/i2cdetect/Bin
+src/i2cdetect/Build
 stuff/

@@ -7,9 +7,9 @@
 */
  
 // === Library includes ===
-#include <time.h>
-#include <stdint.h>
-#include <stdio.h> // printf
+#include <ctime>
+#include <cstdint>
+#include <cstdio> // printf
 #include <bcm2835.h> // GPIO control 
 
 // === Definitions ===
