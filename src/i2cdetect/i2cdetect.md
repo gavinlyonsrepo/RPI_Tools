@@ -3,10 +3,9 @@
 
 ## Overview
 
-Raspberry Pi I2C bus scan detection program
-Detects I2C 7-bit address and prints them to screen using bcm2835 library.
-User-space program to scan for I2C devices
-7-bit I2C Address, to see if any slaves are present on the I2C bus.
+Raspberry Pi I2C bus scan detection program.
+Detects I2C 7-bit address and prints them to screen.
+User-space program to scan for I2C devices, to see if any slaves are present on the I2C bus.
 Uses bcm2835 Library v1.7.5 dependency. Provides low level I2C bus, delays and GPIO control.
 
 ## Dependency
@@ -20,7 +19,7 @@ Enter your Downloads folder, then type in terminal.
 To download, build , install and test.
 
 ```sh
-curl -L -O https//github.com/gavinlyonsrepo/RPI_Tools/archive/main.zip
+curl -L -O https://github.com/gavinlyonsrepo/RPI_Tools/archive/main.zip
 unzip main.zip
 cd RPI_Tools-main/src/i2cdetect
 make
